@@ -1,7 +1,7 @@
 # SamsungCard_SCIC2021
 [2021 삼성카드 데이터분석 공모전] 고객 피드백 NLP <1차 탈락>
 <br>
-Notion: https://www.notion.so/b831525e3fc7443da3fd3a9a4f3481bf
+Notion: https://www.notion.so/SCIC2021-b831525e3fc7443da3fd3a9a4f3481bf
 <br>
 <h3>팀원: </h3>
 김홍범 https://github.com/billkim418<br>
