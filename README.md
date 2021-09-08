@@ -14,7 +14,7 @@ Notion: https://www.notion.so/b831525e3fc7443da3fd3a9a4f3481bf
 1차 기획서 제출: 2021.7.27<br>
 2차 결과물 제출: 2021.8.19<br>
 <br>
-<h4>기획서</h4>
+<h2>1차 기획서</h2>
 <img src="SamsungCard_PPT/SamsungCard_210727.jpg">
 <img src="SamsungCard_PPT/SamsungCard_210727 (1).jpg">
 <img src="SamsungCard_PPT/SamsungCard_210727 (2).jpg">
