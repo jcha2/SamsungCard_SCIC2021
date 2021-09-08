@@ -1,6 +1,6 @@
 # SamsungCard_SCIC2021
 [2021 삼성카드 데이터분석 공모전] 고객 설문 데이터 분석 - NLP<br>
-결과: 1차 
+결과: 1차 탈락 <br>
 <br>
 팀원: <br>
 김홍범 https://github.com/billkim418<br>
